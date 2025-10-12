@@ -1,0 +1,9 @@
+[user]
+	name = Angelo Rafael F. Recio
+	email = recioangelorafael@gmail.com
+	signingkey = 
+[core]
+	editor = code
+	autocrlf = input
+[color]
+	ui = true
