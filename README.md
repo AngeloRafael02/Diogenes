@@ -18,6 +18,7 @@ It is named "Diogenes" due to do the author advocating a life of radical simplic
 2. [fastfetch](https://archlinux.org/packages/extra/x86_64/fastfetch/) - system information tool
 3. [ufw](https://wiki.archlinux.org/title/Uncomplicated_Firewall) - firewall
 4. [bluez](https://archlinux.org/packages/extra/x86_64/bluez/) and [bluez-utils](https://archlinux.org/packages/?name=bluez-utils) - Bluetooth protocol stack and utility
+5. [libsecret](https://github.com/GNOME/libsecret) and [gnome-keyring](https://wiki.archlinux.org/title/GNOME/Keyring) - for storing private keys like git keys
 
 ### GUI Apps
 

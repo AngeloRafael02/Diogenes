@@ -1,3 +1,6 @@
-
-# https://i.redd.it/8zv7hddo6ia11.png
 feh --bg-fill /home/angelorafael/Downloads/dark-grey.png &
+# https://i.redd.it/8zv7hddo6ia11.png
+
+# Start the GNOME Keyring daemon
+eval $(/usr/bin/gnome-keyring-daemon --start --components=secrets,ssh)
+export SSH_AUTH_SOC
