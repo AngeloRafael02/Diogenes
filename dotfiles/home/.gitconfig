@@ -1,9 +1,11 @@
 [user]
 	name = Angelo Rafael F. Recio
 	email = recioangelorafael@gmail.com
-	signingkey = 
+	signingkey =
 [core]
 	editor = code
 	autocrlf = input
 [color]
 	ui = true
+[credential]
+	helper = /usr/lib/git-core/git-credential-libsecret
