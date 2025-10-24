@@ -9,3 +9,5 @@
 	ui = true
 [credential]
 	helper = /usr/lib/git-core/git-credential-libsecret
+[commit]
+	verbose = true
