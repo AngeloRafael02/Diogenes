@@ -14,7 +14,7 @@ It is named "Diogenes" due to do the author advocating a life of radical simplic
 
 ## Packages Used
 
-1. [feh](https://wiki.archlinux.org/title/Feh) - image viewer
+1. [feh](https://wiki.archlinux.org/title/Feh) - image viewer and [wallpaper](https://i.redd.it/8zv7hddo6ia11.png) setter
 2. [fastfetch](https://archlinux.org/packages/extra/x86_64/fastfetch/) - system information tool
 3. [ufw](https://wiki.archlinux.org/title/Uncomplicated_Firewall) - firewall
 4. [bluez](https://archlinux.org/packages/extra/x86_64/bluez/) and [bluez-utils](https://archlinux.org/packages/?name=bluez-utils) - Bluetooth protocol stack and utility

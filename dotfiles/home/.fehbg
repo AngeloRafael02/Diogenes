@@ -1,4 +1,2 @@
 #!/bin/sh
-
-# https://i.redd.it/8zv7hddo6ia11.png
 feh --no-fehbg --bg-fill '/home/angelorafael/Downloads/dark-grey.png' 
