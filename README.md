@@ -20,6 +20,10 @@ It is named "Diogenes" due to do the author advocating a life of radical simplic
 4. [bluez](https://archlinux.org/packages/extra/x86_64/bluez/) and [bluez-utils](https://archlinux.org/packages/?name=bluez-utils) - Bluetooth protocol stack and utility
 5. [libsecret](https://github.com/GNOME/libsecret) and [gnome-keyring](https://wiki.archlinux.org/title/GNOME/Keyring) - for storing private keys like git keys
 6. [noto-fonts](https://archlinux.org/packages/extra/any/noto-fonts/), [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/), and [noto-fonts-emoji](https://archlinux.org/packages/extra/any/noto-fonts-emoji/) - covering all the world's languages and scripts
+7. [libnotify](https://github.com/GNOME/libnotify) and [notification-daemon](https://archlinux.org/packages/?name=notification-daemon) -  for notifications (such as [low battery notifications](https://ejmastnak.com/tutorials/arch/battery-alert/))
+8. [acpi](https://wiki.archlinux.org/title/A1CPI_modules) - for battery, power, and thermal readings
+9. [brightnessctl](https://man.archlinux.org/man/extra/brightnessctl/brightnessctl.1.en) - brightness control tool
+10. [xorg-xrandr](https://wiki.archlinux.org/title/Xrandr) - RandR extension cli (for [external monitor confuguration](https://ejmastnak.com/tutorials/arch/displays/))
 
 ### GUI Apps
 
