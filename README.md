@@ -1,8 +1,8 @@
 # Diogenes
 
-This Repository stores my main dotfiles of current and future Linux Machines
+This Repository stores my main dotfiles for current and future Linux Machines
 
-It is named "Diogenes" due to do the author advocating a life of radical simplicity and rejecting societal norms. (mainly because his hardware is OLD)
+It is named "Diogenes" due to the author advocating a life of simplicity and rejecting societal norms. (mainly because his hardware is OLD)
 
 | Software  | Selection |
 | ------------- |:-------------:|
@@ -12,18 +12,19 @@ It is named "Diogenes" due to do the author advocating a life of radical simplic
 | Greeter | [LightDM](https://wiki.archlinux.org/title/LightDM) |
 | Audio | [Pipewire](https://wiki.archlinux.org/title/PipeWire) |
 
-## Packages Used
+### Packages Used
 
-1. [feh](https://wiki.archlinux.org/title/Feh) - image viewer and [wallpaper](https://i.redd.it/8zv7hddo6ia11.png) setter
-2. [fastfetch](https://archlinux.org/packages/extra/x86_64/fastfetch/) - system information tool
-3. [ufw](https://wiki.archlinux.org/title/Uncomplicated_Firewall) - firewall
-4. [bluez](https://archlinux.org/packages/extra/x86_64/bluez/) and [bluez-utils](https://archlinux.org/packages/?name=bluez-utils) - Bluetooth protocol stack and utility
-5. [libsecret](https://github.com/GNOME/libsecret) and [gnome-keyring](https://wiki.archlinux.org/title/GNOME/Keyring) - for storing private keys like git keys
-6. [noto-fonts](https://archlinux.org/packages/extra/any/noto-fonts/), [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/), and [noto-fonts-emoji](https://archlinux.org/packages/extra/any/noto-fonts-emoji/) - covering all the world's languages and scripts
-7. [libnotify](https://github.com/GNOME/libnotify) and [notification-daemon](https://archlinux.org/packages/?name=notification-daemon) -  for notifications (such as [low battery notifications](https://ejmastnak.com/tutorials/arch/battery-alert/))
-8. [acpi](https://wiki.archlinux.org/title/A1CPI_modules) - for battery, power, and thermal readings
-9. [brightnessctl](https://man.archlinux.org/man/extra/brightnessctl/brightnessctl.1.en) - brightness control tool
-10. [xorg-xrandr](https://wiki.archlinux.org/title/Xrandr) - RandR extension cli (for [external monitor confuguration](https://ejmastnak.com/tutorials/arch/displays/))
+1. [nano]() - quick IDE for single-file modifications
+2. [feh](https://wiki.archlinux.org/title/Feh) - image viewer and [wallpaper](https://i.redd.it/8zv7hddo6ia11.png) setter
+3. [fastfetch](https://archlinux.org/packages/extra/x86_64/fastfetch/) - system information tool
+4. [ufw](https://wiki.archlinux.org/title/Uncomplicated_Firewall) - firewall
+5. [bluez](https://archlinux.org/packages/extra/x86_64/bluez/) and [bluez-utils](https://archlinux.org/packages/?name=bluez-utils) - Bluetooth protocol stack and utility
+6. [libsecret](https://github.com/GNOME/libsecret) and [gnome-keyring](https://wiki.archlinux.org/title/GNOME/Keyring) - for storing private keys like git keys
+7. [noto-fonts](https://archlinux.org/packages/extra/any/noto-fonts/), [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/), and [noto-fonts-emoji](https://archlinux.org/packages/extra/any/noto-fonts-emoji/) - covering all the world's languages and scripts
+8. [libnotify](https://github.com/GNOME/libnotify) and [notification-daemon](https://archlinux.org/packages/?name=notification-daemon) -  for notifications (such as [low battery notifications](https://ejmastnak.com/tutorials/arch/battery-alert/))
+9. [acpi](https://wiki.archlinux.org/title/A1CPI_modules) - for battery, power, and thermal readings
+10. [brightnessctl](https://man.archlinux.org/man/extra/brightnessctl/brightnessctl.1.en) - brightness control tool
+11. [xorg-xrandr](https://wiki.archlinux.org/title/Xrandr) - RandR extension cli (for [external monitor confuguration](https://ejmastnak.com/tutorials/arch/displays/))
 
 ### GUI Apps
 
@@ -31,6 +32,7 @@ It is named "Diogenes" due to do the author advocating a life of radical simplic
 2. [gucview2](https://man.archlinux.org/man/guvcview.1.en) - camera app
 3. [flameshot](https://wiki.archlinux.org/title/Flameshot) - screenshot app
 4. [firefox](https://wiki.archlinux.org/title/Firefox) - web browser
+5. [code](https://archlinux.org/packages/extra/x86_64/code/) (VS Code) - Programming IDE
 
 ### TUI Apps
 
