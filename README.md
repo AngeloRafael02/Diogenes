@@ -4,6 +4,17 @@ This Repository stores my main dotfiles for current and future Linux Machines
 
 It is named "Diogenes" due to the author advocating a life of simplicity and rejecting societal norms. (mainly because his hardware is OLD)
 
+### Repository Structure
+
+```bash
+/
+├── benchmarks/ #Stores seldom benchmarks of system via 'systmd-analyze'
+├── dotfiles/   #Stores the actual dot files of the machine 
+└── scripts/    #Stores frequently used scripts of the Author
+```
+
+### Device
+
 | Software  | Selection |
 | ------------- |:-------------:|
 | Operating System | [Arch Linux](https://archlinux.org/)   |
