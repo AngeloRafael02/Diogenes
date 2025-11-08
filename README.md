@@ -14,7 +14,7 @@ It is named "Diogenes" due to the author advocating a life of simplicity and rej
 
 ### Packages Used
 
-1. [nano]() - quick IDE for single-file modifications
+1. [nano](https://wiki.archlinux.org/title/Nano) - quick IDE for single-file modifications
 2. [feh](https://wiki.archlinux.org/title/Feh) - image viewer and [wallpaper](https://i.redd.it/8zv7hddo6ia11.png) setter
 3. [fastfetch](https://archlinux.org/packages/extra/x86_64/fastfetch/) - system information tool
 4. [ufw](https://wiki.archlinux.org/title/Uncomplicated_Firewall) - firewall
