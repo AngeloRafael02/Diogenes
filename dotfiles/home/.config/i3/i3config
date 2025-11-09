@@ -175,7 +175,9 @@ for_window [class="guvcview"] layout tabbed
 
 # Brightness Shortcut
 bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
+bindsym $mod+plus exec --no-startup-id brightnessctl set +5%
 bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
+bindsym $mod+minus exec --no-startup-id brightnessctl set 5%bindsym $mod+minus exec --no-startup-id brightnessctl set 5%--
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
