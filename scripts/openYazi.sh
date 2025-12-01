@@ -8,7 +8,6 @@ APP_COMMAND="yazi"
 TARGET_WORKSPACE="4"
 
 i3-msg "exec $TERMINAL -T 'cmus_tui' -e $APP_COMMAND; \
-        [title='cmus_tui'] move container to workspace $TARGET_WORKSPACE; \
         workspace $TARGET_WORKSPACE; \
         layout tabbed"
 
