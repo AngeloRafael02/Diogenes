@@ -173,11 +173,16 @@ for_window [class="discord"] layout tabbed
 for_window [class="obs"] layout tabbed
 for_window [class="guvcview"] layout tabbed
 
+# Shell Scripts
+bindsym $mod+Shift+s exec /home/angelorafael/Projects/Diogenes/scripts/openCmus.sh
+bindsym $mod+Shift+f exec /home/angelorafael/Projects/Diogenes/scripts/openYazi.sh
+bindsym $mod+Shift+y exec /home/angelorafael/Projects/Diogenes/scripts/openBluetui.sh
+
 # Brightness Shortcut
 bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
 bindsym $mod+plus exec --no-startup-id brightnessctl set +5%
 bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
-bindsym $mod+minus exec --no-startup-id brightnessctl set 5%bindsym $mod+minus exec --no-startup-id brightnessctl set 5%--
+bindsym $mod+minus exec --no-startup-id brightnessctl set 5%-
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
