@@ -1,0 +1,25 @@
+File for Quick View of Most used Linux Commands
+
+# Quick search with a keyword you remember
+history | grep <keyword/regex-pattern>
+
+# To Connect to Wifi with SSID and Password
+wpa_passphrase <SSID> <passphrase> | sudo tee -a /etc/wpa_supplicant/wpa_suppliacnt.conf
+
+# For Checking battery 
+acpi -b
+
+# List all Block Devices (storage like USB Drives)
+lsblk 
+
+# Mounting and Unmounting USB Drives
+sudo mount /dev/<device> /mnt/<mount-path>
+sudo umount /mnt/<mount-path>
+
+# finding file contaning a certain string
+grep -rinw '/path/to/somewhere/' -e 'pattern'
+
+# BenchMark Machine startup
+systemd-analyze
+systemd-analyze blame                       # returns all process and the time they were finished
+systemd-analyze plot > boot_analysis.svg    # returns all process and time on svg format
