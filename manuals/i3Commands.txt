@@ -1,0 +1,17 @@
+-- i3 Commands --
+
+mod + Enter             # Open Terminal
+
+mod + Shift + q         # Close Focused window
+
+mod + <arrowKey>        # Move focus to another window
+mod + Shift + <number>  # Move focused window to workspace
+mod + <number>          # Move between Workspaces
+
+mod + s                 # Switch to Stacking Mode
+mod + e                 # Switch to Split Mode
+mod + w                 # Switch to Tab Mode
+
+mod + r                 # Switch to Resize Mode (use arrows to adjust focused tab, press esc to quit Resize Mode)
+
+mod + shift + r         # Restart i3

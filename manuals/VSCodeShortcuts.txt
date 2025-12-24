@@ -1,0 +1,14 @@
+-- VS Code Shortcuts --
+
+ctrl + shift + e            # Move focus to file Explorer (press enter on file to open)
+
+ctrl + w                    # Close Current Tab
+
+ctrl + <number>             # Move betwen Editing Window
+ctrl + pageUp               # Move to the Left Tab
+ctrl + pageDown             # Move to the Right Tab
+ctrl + shift + <arrowKey>   # move tab to adjacent editing group
+
+ctrl + \                    # Split Tab
+
+ctrl + b                    # Toggle SideBar

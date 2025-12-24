@@ -1,0 +1,18 @@
+-- FireFox Keyboard Shortcuts --
+
+ctrl + t                    # Open new tab
+ctrl + n                    # Open new Firefox window
+ctrl + shift + n            # Open Last Deleted Tab
+ctrl + shift + p            # Open Incognito Tab
+
+ctrl + w                    # Close Current Tab
+
+ctrl + tab                  # Move to Next Tab
+ctrl + shift + tab          # Move to Previous Tab
+ctrl + shift + pageUp       # Move Tab to the Left
+ctrl + shift + pageDown     # Move Tab to the Right
+
+ctrl + m                    # Mute/Unmute Tab
+ctrl + r                    # Refresh Tab
+ctrl + l  alt + Enter       # Highlight tab URL then duplicate on New Window
+ctrl + l  cltr + can        # Copy Link of Curr+ent Tab
