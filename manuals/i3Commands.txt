@@ -12,6 +12,7 @@ mod + s                 # Switch to Stacking Mode
 mod + e                 # Switch to Split Mode
 mod + w                 # Switch to Tab Mode
 
+mod + f                 # toggle current tab on fullscreen mode
 mod + r                 # Switch to Resize Mode (use arrows to adjust focused tab, press esc to quit Resize Mode)
 
 mod + shift + r         # Restart i3
