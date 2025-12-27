@@ -7,7 +7,7 @@ TERMINAL="xterm"
 APP_COMMAND="yazi"
 TARGET_WORKSPACE="4"
 
-i3-msg "exec $TERMINAL -T 'cmus_tui' -e $APP_COMMAND; \
+i3-msg "exec $TERMINAL -T 'yazi' -e $APP_COMMAND; \
         workspace $TARGET_WORKSPACE; \
         layout tabbed"
 

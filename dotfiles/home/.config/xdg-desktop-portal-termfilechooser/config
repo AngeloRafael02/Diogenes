@@ -1,0 +1,3 @@
+[filechooser]
+cmd=xterm -e yazi
+default_dir=$HOME

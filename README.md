@@ -52,3 +52,13 @@ It is named "Diogenes" due to the author advocating a life of simplicity and rej
 3. [htop](https://man.archlinux.org/man/htop.1.en) - system monitoring
 4. [bmon](https://man.archlinux.org/man/extra/bmon/bmon.8.en) - network monitoring
 5. [bluetui](https://wiki.archlinux.org/title/Bluetooth) - bluetooth manager
+
+### yay and AUR Packages
+1. [yay](https://aur.archlinux.org/packages/yay) - AUR Helper (installed First via `makepkg -si`)
+2. [xdg-desktop-portal-termfilechooser-hunkyburrito-git](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser?tab=readme-ov-file#installation) - make yazi the filechooser  for firefox
+   - After installateion you must alsop do some configutaion in firefox via opening `about:config` in the address bar:
+   ```
+    widget.use-xdg-desktop-portal.file-picker = 1
+    widget.use-xdg-desktop-portal = true
+   ```
+
