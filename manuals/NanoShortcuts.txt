@@ -1,0 +1,14 @@
+-- Nano Keyboard Shortcuts -- 
+
+ctrl + a                    # Go To Start of current line
+ctrl + e                    # Go To End of current Line
+
+ctrl + y                    # Move Up one full screen (Page Up)
+ctrl + v                    # Move Doen onw full screen (Page Down)
+
+ctrl + shift + _            # Go to Specific Line (input line number after)
+
+ctrl + w                    # Search/Highlight specific string of text
+
+ctrl + k                    # cut text
+ctrl + u                    # paste text
