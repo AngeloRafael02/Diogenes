@@ -3,8 +3,17 @@ File for Quick View of Most used Linux Commands
 # Quick search with a keyword you remember
 history | grep <keyword/regex-pattern>
 
-# To Connect to Wifi with SSID and Password
+# To Connect to Wifi with SSID and Password using wpa_suppliacnt
 wpa_passphrase <SSID> <passphrase> | sudo tee -a /etc/wpa_supplicant/wpa_suppliacnt.conf
+
+# To Connect To Wifi with SSID and Password using iwctl
+iwctl
+station <device> scan               # device is interface like 'wlan0'
+station <device> get-networks
+station <device> connect <SSID>     # a password prompt will appear
+station <device> disconnect         # to disconnect
+quit 
+
 
 # For Checking battery 
 acpi -b
