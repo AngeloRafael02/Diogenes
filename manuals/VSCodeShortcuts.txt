@@ -7,7 +7,9 @@ ctrl + w                    # Close Current Tab
 ctrl + <number>             # Move betwen Editing Window
 ctrl + pageUp               # Move to the Left Tab
 ctrl + pageDown             # Move to the Right Tab
-ctrl + shift + <arrowKey>   # move tab to adjacent editing group
+
+ctrl + shift + <arrowKey>   # Move tab to adjacent editing group
+ctrl + alt + <arrowKey>     # Move Current Tab to new Slipt Window on a certain direction
 
 ctrl + \                    # Split Tab
 
