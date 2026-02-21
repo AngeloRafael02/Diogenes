@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/home/angelorafael/Downloads/dark-grey.png' 
+feh --no-fehbg --bg-fill '/usr/share/backgrounds/dark-grey.png.png' 
