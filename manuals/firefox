@@ -12,6 +12,9 @@ ctrl + shift + tab          # Move to Previous Tab
 ctrl + shift + pageUp       # Move Tab to the Left
 ctrl + shift + pageDown     # Move Tab to the Right
 
+alt + left-arrow            # Back Button
+alt + right-arrow           # Forward Button 
+
 ctrl + m                    # Mute/Unmute Tab
 ctrl + r                    # Refresh Tab
 ctrl + l  alt + Enter       # Highlight tab URL then duplicate on New Window
