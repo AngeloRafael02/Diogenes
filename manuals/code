@@ -3,8 +3,7 @@
 ctrl + w                    # Close Current Tab / Close editor
 
 ctrl + <number>             # Move betwen Editing Window
-ctrl + pageUp               # Move to the Left Tab
-ctrl + pageDown             # Move to the Right Tab
+ctrl + pageUp/pageDown      # Move to the Previous/Next Tab or Terminal
 ctrl + shift + pageUp       # Move Current Tab to the Left
 ctrl + shift + pageDown     # Move Current Tab to the Right
 
@@ -13,9 +12,10 @@ ctrl + alt + <arrowKey>     # Move Current Tab to new Split Window on a certain 
 
 ctrl + \                    # Split Tab
 
-ctrl + b                    # Toggle SideBar
 ctrl + `                    # Toggle Bottom Terminal
+ctrl + shift + `            # Create new Terminal
 
+ctrl + b                    # Toggle SideBar
 ctrl + shift + e            # Move focus to file Explorer SideBar (press enter on file to open)
 ctrl + shift + f            # Move Focus to Find SideBar
 ctrl + shift + g            # Move Focus to Version Control SideBar

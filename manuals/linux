@@ -14,7 +14,6 @@ station <device> connect <SSID>     # a password prompt will appear
 station <device> disconnect         # to disconnect
 quit 
 
-
 # For Checking battery 
 acpi -b
 

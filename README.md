@@ -10,6 +10,7 @@ It is named "Diogenes" due to the author advocating a life of simplicity and rej
 /
 ├── benchmarks/ #Stores seldom benchmarks of system via 'systmd-analyze'
 ├── dotfiles/   #Stores the actual dot files of the machine 
+├── manuals/    #Stores personal notes for keyboard shortcuts of some applications
 └── scripts/    #Stores frequently used scripts of the Author
 ```
 
