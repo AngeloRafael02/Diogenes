@@ -52,7 +52,8 @@ It is named "Diogenes" due to the author advocating a life of simplicity and rej
 2. [cmus](https://github.com/cmus/cmus) - mp3 player
 3. [htop](https://man.archlinux.org/man/htop.1.en) - system monitoring
 4. [bmon](https://man.archlinux.org/man/extra/bmon/bmon.8.en) - network monitoring
-5. [bluetui](https://wiki.archlinux.org/title/Bluetooth) - bluetooth manager
+5. [bluetui](https://wiki.archlinux.org/title/Bluetooth) - Bluetooth manager
+6. [impala](https://archlinux.org/packages/extra/x86_64/impala/) Wifi Manager
 
 ### yay and AUR Packages
 1. [yay](https://aur.archlinux.org/packages/yay) - AUR Helper (installed First via `makepkg -si`)
