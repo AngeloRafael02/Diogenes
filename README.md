@@ -44,7 +44,9 @@ It is named "Diogenes" due to the author advocating a life of simplicity and rej
 2. [gucview2](https://man.archlinux.org/man/guvcview.1.en) - camera app
 3. [flameshot](https://wiki.archlinux.org/title/Flameshot) - screenshot app
 4. [firefox](https://wiki.archlinux.org/title/Firefox) - web browser
-5. [code](https://archlinux.org/packages/extra/x86_64/code/) (VS Code) - Programming IDE
+5. [chromium](https://www.chromium.org/chromium-projects/) - browser for Angular Unit Testing
+6. [code](https://archlinux.org/packages/extra/x86_64/code/) (VS Code) - Programming IDE
+7. [godot](https://godotengine.org/download/linux/) - Game Engine
 
 ### TUI Apps
 
@@ -55,9 +57,10 @@ It is named "Diogenes" due to the author advocating a life of simplicity and rej
 5. [bluetui](https://wiki.archlinux.org/title/Bluetooth) - Bluetooth manager
 6. [impala](https://archlinux.org/packages/extra/x86_64/impala/) Wifi Manager
 
-### yay and AUR Packages
+### yay, AUR Packages, etc.
 1. [yay](https://aur.archlinux.org/packages/yay) - AUR Helper (installed First via `makepkg -si`)
-2. [xdg-desktop-portal-termfilechooser-hunkyburrito-git](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser?tab=readme-ov-file#installation) - make yazi the filechooser  for firefox
+2. [docker](https://docs.docker.com/desktop/setup/install/linux/archlinux/) - for building, shipping, and running dev applications.
+3. [xdg-desktop-portal-termfilechooser-hunkyburrito-git](https://github.com/hunkyburrito/xdg-desktop-portal-termfilechooser?tab=readme-ov-file#installation) - make yazi the filechooser  for firefox
    - After installateion you must alsop do some configutaion in firefox via opening `about:config` in the address bar:
    ```
     widget.use-xdg-desktop-portal.file-picker = 1

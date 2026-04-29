@@ -31,3 +31,6 @@ grep -rinw '/path/to/somewhere/' -e 'pattern'
 systemd-analyze
 systemd-analyze blame                       # returns all process and the time they were finished
 systemd-analyze plot > boot_analysis.svg    # returns all process and time on svg format
+
+# How to run Docker
+systemctl --user start docker-desktop
