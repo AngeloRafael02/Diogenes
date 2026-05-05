@@ -25,6 +25,8 @@ ctrl + shift + x            # Move Focus to Extensions SideBar
 ctrl + shift + p            # Open Command
 ctrl + ,                    # Open Settings Tab
 
+ctrl + g                    # Go to a line in the file (a propmt appear and input line number there)
+
 # To Open New File in File Explorer:
 - ctrl + shift + e 
 - Go to desired Path
