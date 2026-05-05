@@ -1,0 +1,4 @@
+# How to add godot or any app in dmenu
+sudo mv /path/to/Godot_v4.x-stable_linux.x86_64 /usr/local/bin/godot
+sudo chmod +x /usr/local/bin/godot
+mod + shift + r (refreshes dmenu)
