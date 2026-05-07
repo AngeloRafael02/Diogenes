@@ -1,4 +1,4 @@
--- VS Code Shortcuts --
+########## VS Code Shortcuts ##########
 
 ctrl + w                    # Close Current Tab / Close editor
 
@@ -42,3 +42,5 @@ ctrl + g                    # Go to a line in the file (a propmt appear and inpu
 - type 'File: New Folder...'
 - type in name of Folder
 - press Enter1
+
+#######################################

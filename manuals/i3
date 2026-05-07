@@ -1,4 +1,4 @@
--- i3 Commands --
+############ i3 Commands ###############
 
 mod + Enter             # Open Terminal
 
@@ -16,3 +16,5 @@ mod + f                 # toggle current tab on fullscreen mode
 mod + r                 # Switch to Resize Mode (use arrows to adjust focused tab, press esc to quit Resize Mode)
 
 mod + shift + r         # Restart i3
+
+#######################################

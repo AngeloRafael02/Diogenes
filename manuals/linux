@@ -34,3 +34,5 @@ systemd-analyze plot > boot_analysis.svg    # returns all process and time on sv
 
 # How to run Docker
 systemctl --user start docker-desktop
+
+#######################################

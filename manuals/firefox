@@ -1,4 +1,4 @@
--- FireFox Keyboard Shortcuts --
+###### FireFox Keyboard Shortcuts #####
 
 ctrl + t                    # Open new tab
 ctrl + n                    # Open new Firefox window
@@ -18,4 +18,6 @@ alt + right-arrow           # Forward Button
 ctrl + m                    # Mute/Unmute Tab
 ctrl + r                    # Refresh Tab
 ctrl + l  alt + Enter       # Highlight tab URL then duplicate on New Window
-ctrl + l  cltr + can        # Copy Link of Curr+ent Tab
+ctrl + l  cltr + c          # Copy Link of Current Tab
+
+#######################################
