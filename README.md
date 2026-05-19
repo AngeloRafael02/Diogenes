@@ -37,6 +37,7 @@ It is named "Diogenes" due to the author advocating a life of simplicity and rej
 9. [acpi](https://wiki.archlinux.org/title/A1CPI_modules) - for battery, power, and thermal readings
 10. [brightnessctl](https://man.archlinux.org/man/extra/brightnessctl/brightnessctl.1.en) - brightness control tool
 11. [xorg-xrandr](https://wiki.archlinux.org/title/Xrandr) - RandR extension cli (for [external monitor confuguration](https://ejmastnak.com/tutorials/arch/displays/))
+12. [fuse](https://archlinux.org/packages/extra/x86_64/fuse2/) - used to run appimage
 
 ### GUI Apps
 
