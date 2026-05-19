@@ -47,6 +47,7 @@ It is named "Diogenes" due to the author advocating a life of simplicity and rej
 5. [chromium](https://www.chromium.org/chromium-projects/) - browser for Angular Unit Testing
 6. [code](https://archlinux.org/packages/extra/x86_64/code/) (VS Code) - Programming IDE
 7. [godot](https://godotengine.org/download/linux/) - Game Engine
+8. [libresprite](https://libresprite.github.io/) - Pixel Art Tool
 
 ### TUI Apps
 
