@@ -1,10 +1,10 @@
-###### FireFox Keyboard Shortcuts #####
+###### Chrome/Chromium Keyboard Shortcuts #####
 
 ctrl + t                    # Open new tab
 ctrl + n                    # Open new Firefox window
 ctrl + shift + n            # Open Last Deleted Tab
 ctrl + shift + p            # Open Incognito Tab
-alt + (right-click tab)     # add new tab to split view shortcut
+sift + alt + n              # add new tab to split view shortcut
 
 ctrl + w                    # Close Current Tab
 
@@ -16,7 +16,6 @@ ctrl + shift + pageDown     # Move Tab to the Right
 alt + left-arrow            # Back Button
 alt + right-arrow           # Forward Button 
 
-ctrl + m                    # Mute/Unmute Tab
 ctrl + r                    # Refresh Tab
 ctrl + l  alt + Enter       # Highlight tab URL then DUPLICATE on New Window
 ctrl + l  cltr + c          # Copy Link of Current Tab
